@@ -49,3 +49,5 @@ setInterval(() => {
     setSlider('next');
     updateActiveItem();
 }, 3000);
+
+<!-- Rodrigo Paulinelli D24585 -->
